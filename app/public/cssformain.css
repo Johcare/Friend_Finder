@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url("https://image.freepik.com/free-vector/brick-texture-background_1035-2260.jpg");
+    background-size: cover;
+    /* opacity: 1; */
+}
+.jumbotron {
+    width: auto;
+    margin-top: 50px;
+    font-size: 50px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: #308ADA;
+    background-position: bottom;
+    background-size: cover;
+    border-radius: 1px;
+}
+.jumbotron:hover {
+    background-position: top;
+        -webkit-text-fill-color: #D2493D;
+}
+body {
+    font-family: 'Baloo Tammudu', cursive;
+    background-image: url("https://image.freepik.com/free-vector/brick-texture-background_1035-2260.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow-y: hidden;
+};
+

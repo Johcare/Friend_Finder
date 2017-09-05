@@ -1,0 +1,27 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "survey typo thing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yauheni Baranouski",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "path": "^0.12.7",
+    "survey-jquery": "^0.12.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Johcare/Friend_Finder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Johcare/Friend_Finder/issues"
+  },
+  "homepage": "https://github.com/Johcare/Friend_Finder#readme"
+}
