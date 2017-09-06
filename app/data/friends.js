@@ -1,6 +1,6 @@
 var friends = [{
         name: "Dwayne Johnson",
-        photo: "https://boygeniusreport.files.wordpress.com/2015/09/the-rock-holding-puppies.jpg?quality=98&strip=all",
+        photo: "https://boygenixusreport.files.wordpress.com/2015/09/the-rock-holding-puppies.jpg?quality=98&strip=all",
         scores: [
             1,
             1,

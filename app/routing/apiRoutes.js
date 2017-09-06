@@ -15,7 +15,13 @@ module.exports = function(app) {
     })
 
     app.get('/:person', function(req, res) {
+        console.log(person)
         console.log(req.params.person)
+        // dobail
+        // var update =req.body;
+        // if(update.person){
+        //     delete update.person
+        // }
         for (friend in friends) {
 
             if (friends[friend].name.toLowerCase() == req.params.person.toLowerCase()) {
